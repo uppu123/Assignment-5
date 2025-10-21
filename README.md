@@ -2,7 +2,7 @@
 
 This repository contains two Python tasks for Assignment 5.
 
-## Task 1: Student Marks Dictionary (Task1.py)
+## Task 1: Create a Dictionary of Student Marks (Task1.py)
 
 ### Description
 
@@ -14,7 +14,7 @@ The script then:
 3.  If the name is found, it prints the student's name and their marks.
 4.  If the name is not found, it prints a "Student not found." message.
 
-## Task 2: List Slicing and Reversing (Task2.py)
+## Task 2: Demonstrate List Slicing (Task2.py)
 
 ### Description
 
